@@ -1,4 +1,4 @@
-use hackduke-hardware 
+use heroku_vkhkvzv3
 db.hardwareschemas.remove({});
 db.userschemas.remove({});
 db.hardwareschemas.insert({
@@ -88,4 +88,3 @@ db.hardwareschemas.insert({
   }],
   "hardware_set":"set3"
 });
-
